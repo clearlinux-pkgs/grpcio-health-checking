@@ -4,7 +4,7 @@
 #
 Name     : grpcio-health-checking
 Version  : 1.42.0
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/74/6f/3b3d131a80498baadb018601a966d39f88f6e3e5f3d970234df256a200fe/grpcio-health-checking-1.42.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/74/6f/3b3d131a80498baadb018601a966d39f88f6e3e5f3d970234df256a200fe/grpcio-health-checking-1.42.0.tar.gz
 Summary  : Standard Health Checking Service for gRPC
